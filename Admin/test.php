@@ -38,7 +38,7 @@
 		<label for="video">Vidéo MP4 :</label>
 		<input type="file" name="video" accept="video/mp4" required>
 
-		<label for="annee">Année :</label>
+		<label for="annee">Année+ :</label>
 		<select name="annee" required>
 			<option value="">Sélectionnez une année</option>
 			<?php
